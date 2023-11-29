@@ -1,0 +1,6 @@
+table{
+    border: solid 1px;
+    border-color: grey;
+    border-radius: 10px;
+    width: 200px;
+}
